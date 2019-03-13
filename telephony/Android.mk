@@ -1,3 +1,3 @@
-ifeq ($(LINEAGE_BUILD),)
+ifeq ($(RR_BUILD),)
 include $(call all-subdir-makefiles)
 endif
